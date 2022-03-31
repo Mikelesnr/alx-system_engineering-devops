@@ -1,2 +1,2 @@
 #!/bin/bash
-open .103-Star_Wars.swg
+telnet towel.blinkenlights.nl
