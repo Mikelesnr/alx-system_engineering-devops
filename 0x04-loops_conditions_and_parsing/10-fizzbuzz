@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# displays fizz for %3 =0, buzz for %5=0 , fizzbuzz for %3 & %5 =0.
+#displays fizz for %3 =0, buzz for %5=0 , fizzbuzz for %3 & %5 =0.
 
 COUNTER=1
 while [ $COUNTER -lt 101 ]
